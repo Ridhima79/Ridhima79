@@ -1,4 +1,6 @@
-<h1 align="center">🎀 Welcome to my GitHub, I'm Ridhima Mahajan 🎀</h1>
+<h1 align="center">🎀 I'm Ridhima Mahajan 🎀</h1>
+<h1 align="center">Welcome to my GitHub </h1>
+
 <h3 align="center">Enthusiastic Electronics Engineering student with a strong interest in Software Development, specializing in Full-Stack development along with React and Cloud related technologies</h3>
 
 # 💫 About Me:
@@ -70,9 +72,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ridhima79&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ridhima79&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridhima79&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### ✍️ Quote for today
