@@ -10,21 +10,15 @@
 
 <p align="left">
   <a href="mailto:ridhimahajan7903@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Email Me-ridhimahajan7903@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/ridhima-m7903" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
-## 📫 Contact Me
-
-<p align="left">
-  <a href="mailto:ridhimahajan7903@gmail.com">
-    <img src="https://img.shields.io/badge/Email Me-ridhimahajan7903@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</p>
 
 # 🗃️ My Experiences:
+
 
 [![My Resume](https://img.shields.io/badge/My_Resume-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1YNVR4ALb8Xp78-w6sqTYp1Tq1gS8gHAq/view?usp=sharing)
 
