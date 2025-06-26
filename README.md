@@ -2,7 +2,8 @@
 <h3 align="center">Enthusiastic Electronics Engineering student with a strong interest in Software Development, specializing in Full-Stack development along with React and Cloud related technologies</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Polishing my skills as a Software engineer**<br><br> 📫 How to reach me **ridhimahajan7903@gmail.com**<br>- 📄 Know about my experiences [https://drive.google.com/file/d/1YNVR4ALb8Xp78-w6sqTYp1Tq1gS8gHAq/view?usp=sharing](https://drive.google.com/file/d/1YNVR4ALb8Xp78-w6sqTYp1Tq1gS8gHAq/view?usp=sharing)<br><br>- ⚡ Fun fact- **I like to make projects to solve my own misery (like i made a Research bot that answers from any uploaded article only)**<br>
+- 🔭 I’m currently working on **Polishing my skills as a Software engineer**<br><br>  ⚡ Fun fact- **I like to make projects to solve my own misery (like i made a Research bot that answers from any uploaded article only)**<br>
+📫 How to reach me **ridhimahajan7903@gmail.com**<br> 📄 Know about my experiences [https://drive.google.com/file/d/1YNVR4ALb8Xp78-w6sqTYp1Tq1gS8gHAq/view?usp=sharing](https://drive.google.com/file/d/1YNVR4ALb8Xp78-w6sqTYp1Tq1gS8gHAq/view?usp=sharing)<br><br>
 
 
 # 💻 Tech Stack:
