@@ -5,7 +5,22 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on **Polishing my skills as a Software engineer**<br><br>  ⚡ Fun fact- **I like to make projects to solve my own misery (like i made a Research bot that answers from any uploaded article only)**<br>
-📫 How to reach me **ridhimahajan7903@gmail.com**<br> 📄 Know about my experiences [https://drive.google.com/file/d/1YNVR4ALb8Xp78-w6sqTYp1Tq1gS8gHAq/view?usp=sharing](https://drive.google.com/file/d/1YNVR4ALb8Xp78-w6sqTYp1Tq1gS8gHAq/view?usp=sharing)<br><br>
+
+## 📫 How to reach me
+
+<p align="left">
+  <a href="mailto:ridhimahajan7903@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ridhima-m7903" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+# 🗃️ My Experiences:
+
+[![My Resume](https://img.shields.io/badge/My_Resume-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1YNVR4ALb8Xp78-w6sqTYp1Tq1gS8gHAq/view?usp=sharing)
+
 
 
 # 💻 Tech Stack:
