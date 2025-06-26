@@ -20,6 +20,55 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) <br>
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) <br>
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+<h2>📜 Certifications</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Full Stack Java Development<br>(SimpliLearn)</strong><br>
+      <img src="https://github.com/user-attachments/assets/3dd70472-5608-4e27-9bac-31e3e5b88650" width="250" height="150"/>
+    </td>
+    <td align="center">
+      <strong>Python and Django Bootcamp<br>(Udemy)</strong><br>
+      <img src="https://github.com/user-attachments/assets/f4fa6e10-7ad6-4a00-8e48-1514cae68e92" width="200" height="150"/>
+    </td>
+    <td align="center">
+      <strong>React the Complete Guide<br>(Udemy)</strong><br>
+      <img src="https://github.com/user-attachments/assets/fb383a8e-4312-4576-b4cc-ad4ceec42deb" width="250" height="150"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Machine Learning<br>(Teachnook)</strong><br>
+      <img src="https://github.com/user-attachments/assets/4f5e446f-4c1b-4c3b-90dd-e0ef20e6234b" width="250" height="150"/>
+    </td>
+    <td align="center">
+      <strong>TensorFlow Bootcamp<br>(Udemy)</strong><br>
+      <img src="https://github.com/user-attachments/assets/74daeca9-a20c-41ec-9a49-652a6879f434" width="250" height="150"/>
+    </td>
+    <td align="center">
+      <strong>Oracle Cloud Infrastructure<br>(Oracle University)</strong><br>
+      <img src="https://github.com/user-attachments/assets/36a56690-3690-4166-90f2-fe96c5904de5" width="250" height="150"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Enterprise DevOps<br>(Microsoft)</strong><br>
+      <img src="https://github.com/user-attachments/assets/67045a85-8af1-40ab-b4c1-d5906460706c" width="200" height="200"/>
+    </td>
+    <td align="center">
+      <strong>Data Analytics<br>(Microsoft)</strong><br>
+      <img src="https://github.com/user-attachments/assets/b248227b-104e-462c-bc74-8e110a24105e" width="200" height="200"/>
+    </td>
+    <td align="center">
+      <strong>Excel Specialist<br>(Microsoft)</strong><br>
+      <img src="https://github.com/user-attachments/assets/b3b58f85-fb43-4af9-bb54-a2543d672d8e" width="200" height="200"/>
+    </td>
+  </tr>
+</table>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ridhima79&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ridhima79&theme=dark&hide_border=false)<br/>
