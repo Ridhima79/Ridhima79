@@ -1,5 +1,5 @@
-<h1 align="center">hi! I'm Ridhima🎀 </h1>
-<h1 align="center">welcome to my GitHub <3 </h1>
+<h1 align="center">hi! I'm Ridhima🎀 <br> welcome to my GitHub <3</h1>
+
 
 <h3 align="center">Enthusiastic Electronics Engineering student with a strong interest in Software Development, specializing in Full-Stack development along with React and Cloud related technologies</h3>
 
