@@ -62,7 +62,7 @@
       <img src="https://github.com/user-attachments/assets/4f5e446f-4c1b-4c3b-90dd-e0ef20e6234b" width="250" height="150"/>
     </td>
     <td align="center">
-      <strong>TensorFlow Bootcamp<br>(Udemy)</strong><br>
+      <strong>TensorFlow Bootcamp for Deep Learning<br>(Udemy)</strong><br>
       <img src="https://github.com/user-attachments/assets/74daeca9-a20c-41ec-9a49-652a6879f434" width="250" height="150"/>
     </td>
     <td align="center">
