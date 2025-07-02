@@ -1,16 +1,16 @@
-<h1 align="center">🎀 I'm Ridhima Mahajan 🎀</h1>
-<h1 align="center">Welcome to my GitHub </h1>
+<h1 align="center">hi! I'm Ridhima🎀 </h1>
+<h1 align="center">welcome to my GitHub <3 </h1>
 
 <h3 align="center">Enthusiastic Electronics Engineering student with a strong interest in Software Development, specializing in Full-Stack development along with React and Cloud related technologies</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Polishing my skills as a Software engineer**<br><br>  ⚡ Fun fact- **I like to make projects to solve my own misery (like i made a Research bot that answers from any uploaded article only)**<br>
+🔭 I’m currently working on **Polishing my skills as a Software engineer**<br><br>  ⚡ Fun fact- **I like to make projects to solve my own misery (like i made a Research bot that answers from any uploaded article only)**<br>
 
 ## 📫 How to reach me
 
 <p align="left">
   <a href="mailto:ridhimahajan7903@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email @-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge", /> ridhimahajan7903@gmail.com <br>
+    <img src="https://img.shields.io/badge/Email -D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge", /> ridhimahajan7903@gmail.com <br>
   </a>
   <a href="https://www.linkedin.com/in/ridhima-m7903" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -92,7 +92,7 @@
   <strong>
     Einstein Prediction Builder, Next Best Action and Copilot Chatbot for "NAfME"
     <img src="https://github.com/user-attachments/assets/71feaf99-e2a1-43d7-994c-f2a4a5172808" alt="NAfME Logo" width="100" style="vertical-align: middle;">
-  </strong><br>
+  </strong><br> using Salesforce <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Badge"/>   <br>
   <img src="https://github.com/user-attachments/assets/1226b265-dc4a-419b-99ed-54feeceec281" alt="Einstein Project" width="250">
 </p>
 
