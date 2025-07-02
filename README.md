@@ -96,17 +96,6 @@
   <img src="https://github.com/user-attachments/assets/1226b265-dc4a-419b-99ed-54feeceec281" alt="Einstein Project" width="250">
 </p>
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ridhima79&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ridhima79&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhima79&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ridhima79&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### ✍️ Quote for today
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
