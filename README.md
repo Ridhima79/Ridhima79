@@ -87,6 +87,17 @@
   </tr>
 </table>
 
+# Experience
+<p align="center">
+  <strong>
+    Einstein Prediction Builder, Next Best Action and Copilot Chatbot for "NAfME"
+    <img src="https://github.com/user-attachments/assets/71feaf99-e2a1-43d7-994c-f2a4a5172808" alt="NAfME Logo" width="100" style="vertical-align: middle;">
+  </strong><br>
+  <img src="https://github.com/user-attachments/assets/1226b265-dc4a-419b-99ed-54feeceec281" alt="Einstein Project" width="250">
+</p>
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ridhima79&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ridhima79&theme=dark&hide_border=false)<br/>
